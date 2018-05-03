@@ -1,0 +1,4 @@
+#Thu Apr 19 14:34:23 ICT 2018
+base.0=E\:\\ChuyenNganhNam4HocKi2\\Android Studio\\Android Project\\LogoPro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=E\:\\ChuyenNganhNam4HocKi2\\Android Studio\\Android Project\\LogoPro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -1,0 +1,7 @@
+#Wed May 02 08:56:46 ICT 2018
+base.0=E\:\\ChuyenNganhNam4HocKi2\\Android Studio\\Android Project\\LogoPro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9c131930ab91121e66cbbf82af31367415cdf001
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\ChuyenNganhNam4HocKi2\\Android Studio\\Android Project\\LogoPro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c547edd4603b327675d208ae52f1715edcfee8f3\\classes.dex
+base.1=E\:\\ChuyenNganhNam4HocKi2\\Android Studio\\Android Project\\LogoPro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c547edd4603b327675d208ae52f1715edcfee8f3
+file.0=E\:\\ChuyenNganhNam4HocKi2\\Android Studio\\Android Project\\LogoPro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9c131930ab91121e66cbbf82af31367415cdf001\\classes.dex
